@@ -1,0 +1,7 @@
+#Sun Oct 01 19:04:56 IST 2017
+base.0=C\:\\Users\\Daljit\\AndroidStudioProjects\\Expenses\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ed7e8e8105bdc38c1a01c43de2249803db5716db
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Daljit\\AndroidStudioProjects\\Expenses\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8fadaab0a43fdccbb6a5c59cce0bc309032ff92a\\classes.dex
+base.1=C\:\\Users\\Daljit\\AndroidStudioProjects\\Expenses\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8fadaab0a43fdccbb6a5c59cce0bc309032ff92a
+file.0=C\:\\Users\\Daljit\\AndroidStudioProjects\\Expenses\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ed7e8e8105bdc38c1a01c43de2249803db5716db\\classes.dex
