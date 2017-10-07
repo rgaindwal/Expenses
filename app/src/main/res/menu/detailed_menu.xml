@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-<item android:title="Detailed">
-
-</item>
+    <item android:id="@+id/date"
+        android:icon="@drawable/calendar"
+        android:title="Sort by date" />
+    <item android:id="@+id/money"
+        android:icon="@drawable/money"
+        android:title="Sort by money" />
 </menu>

@@ -27,6 +27,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.rgain.expenses.activity_category" />
+        <activity android:name="com.example.rgain.expenses.DetailedViewActivity" />
     </application>
 
 </manifest>

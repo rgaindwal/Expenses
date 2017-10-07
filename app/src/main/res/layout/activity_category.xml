@@ -20,7 +20,7 @@
             android:textSize="28sp"
             android:text="Category"
             android:textAlignment="center"
-            android:textColor="@android:color/holo_orange_light"
+            android:textColor="#000"
             android:layout_marginTop="8sp"
             />
         <View
@@ -28,7 +28,7 @@
             android:layout_height="3dp"
             android:layout_marginTop="12dp"
             android:layout_marginBottom="12dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="#000"
             />
         <android.support.v7.widget.RecyclerView
             android:id="@+id/expense_item_recycler_view"
@@ -42,6 +42,7 @@
         android:layout_height="60dp"
         android:layout_gravity="bottom|right"
         android:layout_margin="16dp"
+        android:elevation="8dp"
         android:src="@drawable/ic_close_circle"
         app:layout_anchor="@id/expense_item_recycler_view"
         app:layout_anchorGravity="bottom|right|end" />
