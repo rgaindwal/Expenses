@@ -11,26 +11,26 @@
         android:text="ADD NEW EXPENSE"
         android:textAlignment="center"
         android:textSize="24sp"
-        android:textColor="@android:color/holo_orange_dark"/>
+        android:textColor="#000"/>
     <View
         android:layout_width="match_parent"
         android:layout_height="3dp"
         android:layout_marginTop="12dp"
         android:layout_marginBottom="12dp"
-        android:background="@android:color/holo_orange_light"
+        android:background="#000"
         />
     <android.support.design.widget.TextInputLayout
 
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-    <EditText
-        android:id="@+id/expense_name_adder"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Category Name"
-        android:inputType="textCapSentences"
-        android:textColorHint="@android:color/holo_orange_dark"
-        android:textColor="@android:color/holo_orange_dark"/>
+        <EditText
+            android:id="@+id/expense_name_adder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Category Name"
+            android:inputType="textCapWords"
+            android:textColorHint="@android:color/holo_orange_dark"
+            android:textColor="@android:color/holo_orange_dark"/>
 
 
     </android.support.design.widget.TextInputLayout>

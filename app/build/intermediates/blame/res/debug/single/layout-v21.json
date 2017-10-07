@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Daljit\\AndroidStudioProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Android\\.android\\build-cache\\10abe88940b6b86af3505872b4116a6c1d095c2b\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "C:\\Users\\Daljit\\AndroidStudioProjects\\Github\\Expenses-1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Android\\.android\\build-cache\\10abe88940b6b86af3505872b4116a6c1d095c2b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Daljit\\AndroidStudioProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Android\\.android\\build-cache\\10abe88940b6b86af3505872b4116a6c1d095c2b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\Daljit\\AndroidStudioProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "merged": "C:\\Users\\Daljit\\AndroidStudioProjects\\Github\\Expenses-1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Android\\.android\\build-cache\\10abe88940b6b86af3505872b4116a6c1d095c2b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\Daljit\\AndroidStudioProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Android\\.android\\build-cache\\10abe88940b6b86af3505872b4116a6c1d095c2b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "C:\\Users\\Daljit\\AndroidStudioProjects\\Github\\Expenses-1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Android\\.android\\build-cache\\10abe88940b6b86af3505872b4116a6c1d095c2b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daljit\\AndroidStudioProjects\\Github\\Expenses-1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Android\\.android\\build-cache\\10abe88940b6b86af3505872b4116a6c1d095c2b\\output\\res\\layout-v21\\notification_action.xml"
     }
 ]

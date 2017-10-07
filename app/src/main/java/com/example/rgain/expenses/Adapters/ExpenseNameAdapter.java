@@ -68,7 +68,7 @@ public class ExpenseNameAdapter extends RecyclerView.Adapter<ExpenseNameAdapter.
 
     @Override
     public void onBindViewHolder(ExpenseNameAdapter.ExpenseHolder holder, int position) {
-    ExpenseNameModel to_bind = mExpensenamesList.get(position);
+        ExpenseNameModel to_bind = mExpensenamesList.get(position);
         holder.bindExpense(to_bind);
     }
 
@@ -134,7 +134,7 @@ public class ExpenseNameAdapter extends RecyclerView.Adapter<ExpenseNameAdapter.
             Log.v("test",mExpense.name+mExpense.amount);
 
             mName.setText(mExpense.name);
-            mAmount.setText(String.valueOf(mExpense.amount));
+            mAmount.setText("₹ " + String.valueOf(mExpense.amount));
         }
     }
 }

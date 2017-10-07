@@ -5,6 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+
     tools:context="com.example.rgain.expenses.MainActivity">
     <LinearLayout
         android:layout_width="match_parent"
@@ -32,6 +33,7 @@
         <android.support.design.widget.FloatingActionButton
             android:id="@+id/fab_add_expense_name"
             android:layout_width="60dp"
+            android:elevation="8dp"
             android:layout_height="60dp"
             android:layout_gravity="bottom|right"
             android:layout_margin="16dp"

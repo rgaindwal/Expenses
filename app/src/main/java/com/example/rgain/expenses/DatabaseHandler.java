@@ -184,6 +184,14 @@ public class DatabaseHandler extends SQLiteOpenHelper {
                 new String[] { String.valueOf(expense.getId()) });
         db.close();
     }
+
+    public void deleteExpenseWithDescriptionName(String description) {
+        SQLiteDatabase db = this.getWritableDatabase();
+        db.delete(TABLE_EXPENSES, KEY_DESCRIPTION + " = ?",
+                new String[] { description });
+        db.close();
+    }
+
     public void deleteExpenseNameandExpenses(String name) {
         SQLiteDatabase db = this.getWritableDatabase();
         db.delete(TABLE_LIST, KEY_EXPENSE_NAME + " = ?",
