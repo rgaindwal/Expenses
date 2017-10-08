@@ -248,7 +248,7 @@ public class DetailedViewActivity extends AppCompatActivity {
             }
         });
         SharedPreferences.Editor editor = sharedpreferences.edit();
-        editor.putBoolean("runActivityDetailedOnce",false);
+        editor.putBoolean("runActivityDetailedOnce",true);
         editor.commit();
 
 

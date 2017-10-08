@@ -1,4 +1,4 @@
-#Sat Oct 07 08:04:54 IST 2017
+#Sat Oct 07 08:15:49 IST 2017
 base.0=C\:\\Users\\Daljit\\AndroidStudioProjects\\Github\\Expenses-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bc526553247d03649882abc74bb38959f43790d0
 renamed.1=classes.dex
 renamed.0=classes2.dex

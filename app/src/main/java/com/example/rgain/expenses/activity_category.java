@@ -91,6 +91,8 @@ public class activity_category extends AppCompatActivity {
             public void onClick(View v) {
                 LayoutInflater inflater = getLayoutInflater();
                 View alertLayout = inflater.inflate(R.layout.new_expense_in_category_adder, null);
+                TextView headingNewExpenseDialog = (TextView) alertLayout.findViewById(R.id.new_expense_heading);
+                headingNewExpenseDialog.setText("Add Expense in "+categoryname);
                 final EditText expenseDescriptionEditText = (EditText) alertLayout.findViewById(R.id.expense_description);
                 final EditText expenseAmountEditText = (EditText) alertLayout.findViewById(R.id.expense_amount);
                 final DatePicker datePicker = (DatePicker) alertLayout.findViewById(R.id.datePicker);

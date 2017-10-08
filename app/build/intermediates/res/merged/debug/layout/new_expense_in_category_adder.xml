@@ -8,7 +8,7 @@
         android:id="@+id/new_expense_heading"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add Expense in Food"
+        android:text="Add Expense"
         android:textColor="#000"
         android:textSize="25dp"
         android:gravity="center_horizontal"
